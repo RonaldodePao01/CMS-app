@@ -35,4 +35,3 @@ export const useFetchProjects = () => {
   return { loading, projects };
 };
 
-// client.then((response) => console.log(response));
